@@ -1,0 +1,2 @@
+# typora-pic
+some pic 
